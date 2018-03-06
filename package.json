@@ -1,0 +1,18 @@
+{
+  "name": "gulp-thing",
+  "version": "1.0.0",
+  "description": "a exercise for engneering of Front End Things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cc712",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  },
+  "dependencies": {
+    "vue": "^2.5.13",
+    "vuex": "^3.0.1"
+  }
+}
